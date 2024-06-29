@@ -69,7 +69,7 @@ Access the web application locally at `http://127.0.0.1:8000/`.
 
 ## Contributing
 
-Please read [http://CONTRIBUTING.md](http://CONTRIBUTING.md) for details on the code of conduct and the process for submitting pull requests.
+Please read CONTRIBUTING.md for details on the code of conduct and the process for submitting pull requests.
 
 ## License
 
