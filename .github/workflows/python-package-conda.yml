@@ -16,7 +16,7 @@ jobs:
         python-version: '3.10'
         uses: conda-incubator/setup-miniconda@v2
         with:
-          environment-file: path/to/environment.yml  # Replace with the correct path
+          environment-file: .github/environment.yml # Replace with the correct path
           auto-activate-base: false
     - name: Add conda to system path
       run: |
