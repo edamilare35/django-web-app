@@ -1,1 +1,12 @@
-
+name: myenv  # Replace with your environment name
+channels:
+  - defaults
+  - conda-forge  # Optional, add channels as needed
+dependencies:
+  - python=3.8  # Specify Python version
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - pip:
+    - some-package  # Add pip packages if needed
