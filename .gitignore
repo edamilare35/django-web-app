@@ -1,0 +1,22 @@
+# Virtual environment
+env/
+
+# Python files
+*.pyc
+__pycache__/
+
+# Django migrations
+app/migrations/
+
+# Local settings
+*.local
+
+# Logs
+*.log
+
+# Static files
+static/
+media/
+
+# Database
+db.sqlite3
